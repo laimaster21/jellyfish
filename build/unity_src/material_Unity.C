@@ -1,0 +1,12 @@
+
+#include"/home/yuan310/projects/jellyfish_vert_sstrain/src/material/ComputeArrheniusMassFractionRateLimit2species.C"
+#include"/home/yuan310/projects/jellyfish_vert_sstrain/src/material/ComputeCrackFrictionHeatEnergyDienes.C"
+#include"/home/yuan310/projects/jellyfish_vert_sstrain/src/material/ComputeDeviatoricStrainMaxwellViscoelasticStress.C"
+#include"/home/yuan310/projects/jellyfish_vert_sstrain/src/material/ComputeLinearElasticPFFractureStressArtVisco.C"
+#include"/home/yuan310/projects/jellyfish_vert_sstrain/src/material/ComputeMieGruneisenPlasticPFFractureStress.C"
+#include"/home/yuan310/projects/jellyfish_vert_sstrain/src/material/ComputeMolecularJettingHeatSource.C"
+#include"/home/yuan310/projects/jellyfish_vert_sstrain/src/material/ComputeThermalExpansionHeatSourceSmallStrainMieGruneisen.C"
+#include"/home/yuan310/projects/jellyfish_vert_sstrain/src/material/ComputeViscoelasticPFFractureStress.C"
+#include"/home/yuan310/projects/jellyfish_vert_sstrain/src/material/LinearIsoElasticPFDamage.C"
+#include"/home/yuan310/projects/jellyfish_vert_sstrain/src/material/PFFracBulkRateMaterial.C"
+#include"/home/yuan310/projects/jellyfish_vert_sstrain/src/material/PositiveVolumetricStrainPFDamage.C"
